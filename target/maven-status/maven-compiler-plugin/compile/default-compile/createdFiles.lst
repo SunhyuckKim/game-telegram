@@ -1,0 +1,9 @@
+game\PolicyHandler.class
+game\Sended.class
+game\Telegram.class
+game\TelegramController.class
+game\TelegramApplication.class
+game\AbstractEvent.class
+game\AbstractEvent$1.class
+game\TelegramRepository.class
+game\config\kafka\KafkaProcessor.class
