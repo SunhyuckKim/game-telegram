@@ -19,8 +19,8 @@ http PUT http://localhost:8088/wallets/1 customerId=101 rewardId=1 status="Excha
 
 http http://localhost:8088/gifts/1
 
-http http://localhost:8088/telegram, line/1
+http http://localhost:8088/telegram/1
 
 http PUT http://localhost:8088/gifts/1 status="Sended" walletId=1
 
-http http://localhost:8088/telegram, line/1
+http http://localhost:8088/telegram/1
